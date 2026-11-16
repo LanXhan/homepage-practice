@@ -17,7 +17,7 @@ export default function App() {
     <div className='grid grid-cols-1 gap-8 lg:grid-cols-3 mb-8 py-8'>
       {/* hero section */}
       <section className="lg:col-span-2 flex flex-col gap-8"> 
-        <img src="./assets/images/image-web-3-desktop.jpg" alt="Web 3.0" className="block w-full h-auto object-cover" />
+        <img src="/assets/images/image-web-3-desktop.jpg" alt="Web 3.0" className="block w-full h-auto object-cover" />
         <div className="grid grid-cols-1 gap-5 pt-6 md:grid-cols-2 md:gap-8">
            <h1 className="text-5xl md:text-6xl font-extrabold leading-none tracking-tight text-dark-blue">The Bright Future of Web 3.0?</h1>
 
